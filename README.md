@@ -1,40 +1,38 @@
-# yokiautummoon.github.io
+# yokiautummoon.github.io 
+# 结秋社
 
 ---
-title: Hello World
+title: 结秋的成长路径
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+大约是计算机的东西。随便看吧。
 
-## Quick Start
+## Typora
 
-### Create a new post
+### 你真的了解typora吗？
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
+key_words:Markdown/latex/(html;css;javascript)
 
 ``` bash
-$ hexo server
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+   <meta charset="UTF-8">
+   <title>test</title>
+   </head>
+<body>
+   <!-- markup -->
+   <a name="top">top</a>
+   <!-- image -->
+   <img src="https://cn.bing.com/images/search?view=detailV2&ccid=lH23KEVC&id=E00F2492B74918B8D330BEFEE254A15A1090571F&thid=OIP.lH23KEVCF4X8wZtGS6W-eQAAAA&mediaurl=https%3a%2f%2fimg-blog.csdnimg.cn%2f20210611110203796.png&exph=192&expw=192&q=typora&simid=608008657577141486&FORM=IRPRST&ck=784AB52CB0742C941F5D7892762AFD35&selectedIndex=4&ajaxhist=0&ajaxserp=0" alt="Typora" title="typora" width="300" height="300">
+   <!-- link -->
+   <br>
+   <br>
+   <a href="top" id="top">back to top</a><br>
+   <a href="#top">back2</a><!-- anchor_link -->
+   <br>
+   <a name="down">down_location</a>
+   </body>
+</html>
 ```
 
-More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
