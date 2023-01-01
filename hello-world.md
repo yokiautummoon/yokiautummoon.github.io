@@ -1,9 +1,9 @@
 ---
-title: Hello World
+title: 结秋社
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+欢迎。这里有大约是计算机的东西。自己随便看吧。
 
-## Quick Start
+## Typora
 
 ### Create a new post
 
