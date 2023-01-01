@@ -10,7 +10,10 @@ title: 结秋的成长路径
 
 ### 你真的了解typora吗？
 
-key_words:Markdown/latex/(html;css;javascript)
+**key_words:**
+` Markdown
+` latex
+` html;css;javascript
 
 ``` bash
 <!DOCTYPE html>
